@@ -105,7 +105,7 @@
             <h5>Rp.28.000</h5>
         </div>
         <div class="menu-item">
-            <img src="../../resource/images/Nasi_bebek_palekko.jpg" alt="Nasi Bebek Palekko">
+            <img src="https://ibb.co.com/HXMZBDm" alt="Nasi Bebek Palekko">
             <h2>Nasi Bebek Palekko</h2>
             <p>Nasi putih dengan bebek palekko yang lezat. Dilengkapi dengan sambal serai dan lalapan segar.</p>
             <h5>Rp.35.000</h5>
